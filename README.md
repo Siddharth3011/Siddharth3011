@@ -109,11 +109,6 @@ A highly dynamic retail application incorporating deep user authentication and g
 * **Key Features:** Cross-device persistent shopping carts utilizing compound SKU keys, absolute secure route-protection using 10-salt-round bcrypt.js hashing with stateless JWT, and an intelligent assistant driven by the Google Gemini API.
 * **Tech Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `Google Gemini API` • `JWT` • `Tailwind CSS`
 
-## 🛡️ EduSafe — Disaster Preparedness Platform
-An educational safety platform built to coordinate high-speed communication and safety data management among student bodies, parents, and school administrations.
-* **Key Features:** Engineered localized REST APIs, designed role-based secure backend route handlers, and constructed responsive multi-tiered dashboards within a rigorous project lifecycle.
-* **Tech Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `REST APIs`
-
 ## 📊 CFOBuddy — Financial Intelligence Assistant
 A structural workspace designed for high-end dynamic financial auditing tracking and data delivery pipelines.
 * **Key Features:** Created an intuitive, sleek ChatGPT-style conversational module, established modular MERN backend endpoints for seamless frontend-to-db interaction, and optimized chart component state properties.
