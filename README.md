@@ -25,7 +25,7 @@
 ```yaml
 Name: Siddharth Pandey
 Education: B.Tech CSE @ ABESIT (2023-2027)
-Location: India
+Location: Ghaziabad, Uttar Pradesh, India
 
 Currently Focused On:
   - Data Structures & Algorithms
