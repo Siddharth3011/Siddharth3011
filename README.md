@@ -68,9 +68,7 @@ Interests:
 
 ### Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
 
 ### Frontend
@@ -188,11 +186,11 @@ Built to help teams manage projects, tasks, communication and productivity from 
 
 <div align="center">
 
-📧 **Email:** [siddharthpandey2911@gmail.com](mailto:siddharthpandey2911@gmail.com)
+📧 **Email:** [sidpandey.codes@gmail.com](mailto:sidpandey.codes@gmail.com)
 
 💼 **LinkedIn:** linkedin.com/in/siddharth-pandey-b0ba41294
 
-🧩 **LeetCode:** leetcode.com/u/siddharthpandey2911
+🧩 **LeetCode:** leetcode.com/u/Siddharth3011
 
 </div>
 
