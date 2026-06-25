@@ -2,9 +2,9 @@
 
 <div align="center">
 
-### Full Stack Developer • MERN Engineer • Problem Solver
+### Software Engineer • Full Stack Developer • MERN Specialist
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;System+Design+Enthusiast;AI+Powered+Product+Builder;Always+Learning+%26+Shipping" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=22D3EE&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;MERN+Stack+Developer;AI+Powered+Product+Builder;Always+Learning+%26+Shipping" />
 
 </div>
 
@@ -12,9 +12,9 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](http://linkedin.com/in/siddharth-pandey-b0ba41294)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge\&logo=leetcode\&logoColor=black)](https://leetcode.com/u/siddharthpandey2911/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:siddharthpandey2911@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/siddharth-pandey-b0ba41294)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Siddharth3011/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sidpandey.codes@gmail.com)
 
 </div>
 
@@ -24,20 +24,20 @@
 
 ```yaml
 Name: Siddharth Pandey
-Education: B.Tech CSE @ ABESIT (2023-2027)
+Education: B.Tech CSE @ ABES Institute of Technology (2023-Present)
 Location: Ghaziabad, Uttar Pradesh, India
 
 Currently Focused On:
-  - Data Structures & Algorithms
-  - Full Stack Development (MERN)
-  - System Design Concepts
-  - Building Production Ready Applications
+  - Data Structures & Algorithms (C++)
+  - Full Stack Development (MERN Stack)
+  - Redis Caching & Containerization (Docker)
+  - Building Production Ready AI-Integrated Applications
 
 Interests:
-  - SaaS Products
-  - AI Integration
+  - SaaS Platforms
+  - AI & GenAI Workflows
   - Backend Engineering
-  - Open Source Contributions
+  - System Scalability
 ```
 
 <table>
@@ -46,17 +46,17 @@ Interests:
 
 ### 💡 What I Do
 
-* 🔥 Build full-stack web applications using MERN Stack
-* 🧠 Solve DSA problems and strengthen problem-solving skills
-* ⚡ Learn scalable architecture and system design concepts
-* 🤖 Explore AI-powered features in modern applications
-* 🚀 Turn ideas into real-world products
+* 🔥 **Full-Stack Engineering:** Build robust, data-driven web platforms using the MERN Stack.
+* 🧠 **Problem Solving:** Actively strengthening algorithmic thinking across competitive platforms.
+* ⚡ **Performance & Scale:** Utilizing Redis caching and containerization for performance optimization.
+* 🤖 **AI Architecting:** Seamlessly blending modern large language models into full-stack ecosystems.
+* 🚀 **Product Mindset:** Transforming complex development specifications into highly responsive real-world platforms.
 
 </td>
 
-<td>
+<td align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="320"/>
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280"/>
 
 </td>
 </tr>
@@ -67,92 +67,66 @@ Interests:
 # 🛠️ Tech Stack
 
 ### Languages
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Backend
-
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge\&logo=express\&logoColor=white)
+### Backend & Caching
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![ExpressJS](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Database
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge\&logo=mongodb\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge\&logo=visualstudiocode\&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
-
----
-
-# 🌟 Featured Projects
-
-## 🛒 Explorer — AI Powered E-Commerce Platform
-
-A modern full-stack e-commerce platform built using the MERN stack with intelligent AI-powered shopping features.
-
-### Key Features
-
-* Secure Authentication & Authorization
-* Product Search & Filtering
-* Shopping Cart & Checkout
-* Admin Dashboard
-* Order Management
-* Product Recommendation Engine
-* AI Assisted Product Discovery
-* Responsive Modern UI
-* REST APIs & MongoDB Integration
-
-### Tech Stack
-
-`React` • `Node.js` • `Express.js` • `MongoDB` • `JWT` • `AI APIs`
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
+
+# 🌟 Projects
 
 ## 🚀 CommitFlow — SaaS Project Management Platform
+A full-stack project management hub centralizing task tracking, real-time sync, and source code control.
+* **Key Features:** Secure workspaces protected by 6-digit OTP verification, real-time Kanban boards via Socket.io, GitHub integration, and a production-scalable backend enhanced with Redis caching.
+* **Tech Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `Redis` • `Socket.io` • `Docker` • `Tailwind CSS`
 
-A collaborative project management platform inspired by Trello, Jira, Notion and Slack.
+## 🛒 Explorer — AI-Powered E-Commerce Platform
+A highly dynamic retail application incorporating deep user authentication and generative AI discovery.
+* **Key Features:** Cross-device persistent shopping carts utilizing compound SKU keys, absolute secure route-protection using 10-salt-round bcrypt.js hashing with stateless JWT, and an intelligent assistant driven by the Google Gemini API.
+* **Tech Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `Google Gemini API` • `JWT` • `Tailwind CSS`
 
-Built to help teams manage projects, tasks, communication and productivity from a single workspace.
+## 🛡️ EduSafe — Disaster Preparedness Platform
+An educational safety platform built to coordinate high-speed communication and safety data management among student bodies, parents, and school administrations.
+* **Key Features:** Engineered localized REST APIs, designed role-based secure backend route handlers, and constructed responsive multi-tiered dashboards within a rigorous project lifecycle.
+* **Tech Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `REST APIs`
 
-### Key Features
-
-* Workspace Management
-* Team Collaboration
-* Kanban Boards
-* Task Assignment & Tracking
-* Real-Time Updates
-* Role Based Access Control
-* Analytics Dashboard
-* Activity Timeline
-* GitHub Integration
-* AI Productivity Assistant
-
-### Tech Stack
-
-`React` • `Node.js` • `Express.js` • `MongoDB` • `WebSockets` • `Redux Toolkit`
+## 📊 CFOBuddy — Financial Intelligence Assistant
+A structural workspace designed for high-end dynamic financial auditing tracking and data delivery pipelines.
+* **Key Features:** Created an intuitive, sleek ChatGPT-style conversational module, established modular MERN backend endpoints for seamless frontend-to-db interaction, and optimized chart component state properties.
+* **Tech Stack:** `React` • `Node.js` • `Express.js` • `Tailwind CSS` • `FastAPI` • `Python`
 
 ---
 
-## 🏆 Achievements
+# 🏆 Achievements & Milestones
 
-* 💯 Active Problem Solver on LeetCode
-* 🧩 Solved 250+ Coding Problems
-* 🏅 CodeChef Bronze Badge Holder
-* 🎓 NPTEL Java Certified
-* 🚀 Built Multiple Full Stack Applications
-* 💡 Participated in Hackathons & Innovation Challenges
+* ⭐⭐ **2-Star Coder** on CodeChef.
+* 🥉 **3rd Place Winner** at the Math-e-Thon Hackathon (Guru Tegh Bahadur Institute of Technology).
+* 🧩 **Solved 350+ Data Structures & Algorithms Problems** across LeetCode, CodeChef, and GFG.
+* 🏅 **SIH 2025 Finalist:** Qualified in the Internal Hackathon at ABESIT for Smart India Hackathon.
 
 ---
 
@@ -160,7 +134,6 @@ Built to help teams manage projects, tasks, communication and productivity from 
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Siddharth3011&show_icons=true&theme=tokyonight&hide_border=true" />
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Siddharth3011&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
@@ -188,9 +161,9 @@ Built to help teams manage projects, tasks, communication and productivity from 
 
 📧 **Email:** [sidpandey.codes@gmail.com](mailto:sidpandey.codes@gmail.com)
 
-💼 **LinkedIn:** linkedin.com/in/siddharth-pandey-b0ba41294
+💼 **LinkedIn:** [linkedin.com/in/siddharth-pandey-b0ba41294](http://linkedin.com/in/siddharth-pandey-b0ba41294)
 
-🧩 **LeetCode:** leetcode.com/u/Siddharth3011
+🧩 **LeetCode:** [leetcode.com/u/Siddharth3011](https://leetcode.com/u/Siddharth3011/)
 
 </div>
 
@@ -200,6 +173,7 @@ Built to help teams manage projects, tasks, communication and productivity from 
 
 ### "Building products, solving problems, and learning every day."
 
-⭐ If you like my work, consider following my GitHub profile.
+⭐ If you like my work, feel free to follow my GitHub profile!
 
 </div>
+```
