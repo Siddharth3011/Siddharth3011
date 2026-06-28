@@ -105,7 +105,9 @@ A full-stack project management hub centralizing task tracking, real-time sync, 
 * **Tech Stack:** `React` • `Node.js` • `Express.js` • `MongoDB` • `Redis` • `Socket.io` • `Docker` • `Tailwind CSS`
 
 ## 🛒 Explorer — AI-Powered E-Commerce Platform
-A highly dynamic, mobile-responsive retail storefront incorporating deep user authentication, secure payment pipelines, and generative AI discovery.  Key Features: Cross-device persistent shopping carts, Amazon/Flipkart-style checkout route-protection using stateless JWT sessions, a secure test-mode Razorpay payment gateway pipeline, and an intelligent "Aura AI" shopping assistant powered by the Google Gemini API with real-time cart context injection.  Tech Stack: React • Node.js • Express.js • MongoDB Atlas • Google Gemini API • Razorpay API • JWT • Vanilla CSS
+A highly dynamic, mobile-responsive retail storefront incorporating deep user authentication, secure payment pipelines, and generative AI discovery.
+* **Key Features:** Cross-device persistent shopping carts, Amazon/Flipkart-style checkout route guarding using stateless JWT sessions, a secure test-mode Razorpay payment gateway pipeline with an automated order fulfillment engine, and an intelligent "Aura AI" shopping assistant powered by the Google Gemini API with real-time cart context injection.
+* **Tech Stack:** `React` • `Node.js` • `Express.js` • `MongoDB Atlas` • `Google Gemini API` • `Razorpay API` • `JWT` • `Vanilla CSS`
 
 ## 📊 CFOBuddy — Financial Intelligence Assistant
 A structural workspace designed for high-end dynamic financial auditing tracking and data delivery pipelines.
