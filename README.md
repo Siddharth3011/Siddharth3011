@@ -8,7 +8,7 @@
 
 <!-- Profile View Counter Component -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Siddharth3011/count.svg" alt="Profile Views" />
+   <img src="https://komarev.com/ghpvc/?username=Siddharth3011&label=Visitors&color=blue&style=for-the-badge" />
 </p>
 
 </div>
