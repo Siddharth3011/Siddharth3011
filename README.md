@@ -8,7 +8,7 @@
 
 <!-- Profile View Counter Component -->
 <p align="center">
-  <img src="https://profile-counter.glitch.me/YOUR_REPOSITORY_NAME/count.svg" alt="Profile Views" />
+  <img src="https://profile-counter.glitch.me/Siddharth3011/count.svg" alt="Profile Views" />
 </p>
 
 </div>
